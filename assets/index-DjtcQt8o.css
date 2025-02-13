@@ -1,0 +1,1 @@
+.nav{width:100vw;height:10vh;background-color:#0ff;display:flex;justify-content:center;align-items:center}.nav a{float:right!important;margin:10px 15px;aspect-ratio:2/1;width:80px}.nav img{height:100%;float:left!important;border-radius:50%}h1{text-transform:capitalize;text-shadow:2px 2px 2px aqua;text-align:center;margin:30vh 0}nav a,img{flex-shrink:1}.error h1{margin:10vh}
